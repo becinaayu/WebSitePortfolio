@@ -1,8 +1,16 @@
-# React + Vite
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Sprint:+%2B+Edge+%2B+Computing)](https://git.io/typing-svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<table>
+          <tr>
+            <th>Alunos:</th>
+          </tr>
+          <tr>
+            <th>Beatriz Dantas Sampaio</th>
+          </tr>
+          <tr>
+            <th>Giovanna Franco Gaudino Rodrigues</th>
+          </tr>
+          <tr>
+            <th>Isabela Barcellos Freire</th>
+          </tr>
+        </table>
