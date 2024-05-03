@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Sprint:+%2B+Edge+%2B+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Checkpoint:+%2B+Web+%2B+Development)](https://git.io/typing-svg)
 
 <table>
           <tr>
